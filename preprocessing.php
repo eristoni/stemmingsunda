@@ -13,7 +13,7 @@ class Preprocessing
 
 	function stopword($InputKata)
 	{
-		$listStopword= array("ka","di","ngan","mah","nu","ti");
+		$listStopword= array("jeung","sih","siah","mah","tah","teh","itu","ieu","tah","ka","di","ku","ngan","nu","nyah","oge","teu","ti","wae","we");
 		$Output = array();
 
 		for($i=0; $i<count($InputKata); $i++)

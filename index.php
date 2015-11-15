@@ -27,8 +27,7 @@
     <a href="http://unsri.ac.id" target="_blank"><img src="assets/image/logo_unsri.png" style="width:41px; float:right; margin-right:15px; margin-top:1px;"/></a>
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand" href="http://localhost/stemmingsundahybrid/stemmingsundakombinasi">Stemming Basa Sunda CMR Kombinasi</a>
-        <a  href="http://localhost/stemmingsundahybrid"><img src="http://localhost/stemmingsundahybrid/home.png" class="img-rounded" style="width:41px;"></a>
+        <a class="navbar-brand" href="http://localhost/stemmingsundakombinasi">Stemming Basa Sunda</a>
       </div>
       <div>
         <form id="form1" name="form1" method="post" action="index.php" enctype="multipart/form-data" class="navbar-form navbar-left" role="form">
