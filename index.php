@@ -3,16 +3,11 @@
   <title>web app sederhana</title>
 </head>
 <body>
-  <?php
-  if(!empty($_POST))
-  {
-    $nama = $_POST['nama'];
-    $email = $_POST['email'];
-
-    echo 'hallo, ' . $nama;
-    echo 'Email : ' . $email;
-  }
-  ?>
+  <form action="hello.php" method="POST">
+    Nama : <input type="text" name="nama"><br>
+    Email : <input type="email" name="email"><br>
+    <input type="subnmit" value="enter"/>
+  </form>
 </body>
 </html>
 
