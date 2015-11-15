@@ -6,7 +6,7 @@
   <form action="hello.php" method="POST">
     Nama : <input type="text" name="nama"><br>
     Email : <input type="email" name="email"><br>
-    <input type="subnmit" value="enter"/>
+    <input type="submit" value="enter"/>
   </form>
 </body>
 </html>
